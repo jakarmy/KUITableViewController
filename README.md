@@ -1,5 +1,6 @@
 KUITableViewController
 ======================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jakarmy/KUITableViewController?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 KUITableViewController is an encapsulation of the UITableViewController class that lets you use the same class every time you need a TableView, not needing to set up a new one every time.
 
